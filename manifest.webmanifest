@@ -1,1 +1,1 @@
-{"name":"Memo Palette.","short_name":"Memo Palette","start_url":"./","scope":"./","display":"standalone","background_color":"#fff5ed","theme_color":"#f4e7f6","icons":[{"src":"icon-180.jpg","sizes":"180x180","type":"image/jpeg","purpose":"any"}]}
+{"name":"Memo Palette.","short_name":"Memo Palette","start_url":"./","scope":"./","display":"standalone","background_color":"#fff5ed","theme_color":"#f4e7f6","icons":[{"src":"apple-touch-icon.png","sizes":"64x64","type":"image/png","purpose":"any"}]}
